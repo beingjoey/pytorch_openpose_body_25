@@ -5,6 +5,7 @@ Don't worry about the caffemodel2pytorch, the pytorch model will be upload to Ba
 
 
 ## References
+* [OpenPose doc](https://arxiv.org/abs/1812.08008)
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [PyTorch OpenPose](https://github.com/Hzzone/pytorch-openpose)
 
