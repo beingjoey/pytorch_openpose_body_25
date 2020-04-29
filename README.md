@@ -19,4 +19,3 @@ python3 demo.py images/timg.jpeg
 
 ## License
 * [OpenPose License](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/LICENSE)
-* [OpenPose PyTorch License](https://github.com/prasunroy/openpose-pytorch/blob/master/LICENSE)
