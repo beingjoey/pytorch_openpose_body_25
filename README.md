@@ -8,10 +8,8 @@ Download the torch model ,and put them in the model folder(mkdir by yourself)
 python3 demo.py images/timg.jpeg
 
 # Downloads:
-* [body_25](https://pan.baidu.com/s/1CopeW-Em4Tm9H-Wl_hzVfg) download code : 9g4p
-* [google cloud]:(https://drive.google.com/file/d/1ghXakEXhBMCdV78K6tCFTPp_vjJDWmcE/view?usp=sharing)
-* [body_coco](https://pan.baidu.com/s/19Hjo5qEsNPoRt6zY6Ly4Lw) download code : kav3
-* [google cloud]:(https://drive.google.com/file/d/1VPiIxXk5KWEwdJlVVe5PDQ1QufMS1Zpk/view?usp=sharing)
+* [body_25](https://pan.baidu.com/s/1CopeW-Em4Tm9H-Wl_hzVfg) download code : 9g4p ; [google cloud](https://drive.google.com/file/d/1ghXakEXhBMCdV78K6tCFTPp_vjJDWmcE/view?usp=sharing)
+* [body_coco](https://pan.baidu.com/s/19Hjo5qEsNPoRt6zY6Ly4Lw) download code : kav3 ; [google cloud](https://drive.google.com/file/d/1VPiIxXk5KWEwdJlVVe5PDQ1QufMS1Zpk/view?usp=sharing)
 
 
 ## References
